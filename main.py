@@ -1,3 +1,3 @@
-print("Gogog")
+print("Привет")
 print("Ветка test")
-print("Ветка test")
+
