@@ -1,1 +1,1 @@
-print("Ветка init")
+print("Ветка test init")
